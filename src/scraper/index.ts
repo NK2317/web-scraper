@@ -37,7 +37,7 @@ export default class Scraper {
             return urls;
         });
         await page.close();
-        return content;
+        return content || [];
     }
 
     //scraps a drug page and returns the related dosage content
