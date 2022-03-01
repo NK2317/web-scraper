@@ -1,6 +1,6 @@
 ### Description
 
-**This is a web-scrapper, to scrapp drugs.com made with typescript, puppeteer and spinner-cli library.**
+**This is a web-scraper, to scrapp drugs.com made with typescript, puppeteer and spinner-cli library.**
 
 ### Requirements
 - You need to have ***node js, typescript and npm* **installed to run the program
